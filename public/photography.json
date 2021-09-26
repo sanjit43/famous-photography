@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Cindy Sherman",
+        "circle": "AMERICAN PHOTOGRAPHER",
+        "img": "https://cdn.pixabay.com/photo/2018/09/12/12/14/man-3672010__340.jpg",
+        "born": "January 19, 1954",
+        "living": "Glen Ridge, New Jersey",
+        "salary": 7000
+    },
+    {
+        "name": "Eliot Porter",
+        "circle": "AMERICAN PHOTOGRAPHER",
+        "img": "https://images.findagrave.com/photos/2019/141/199322433_699de81d-7b18-451f-a57d-44ada4452e10.jpeg",
+        "born": "December 6, 1901",
+        "living": "Winnetka, IL",
+        "salary": 6000
+    },
+    {
+        "name": "Frans Lanting",
+        "circle": "Dutch National Geographic photographer",
+        "img": "https://www.dpreview.com/files/p/articles/3430815255/FransLantingInterview.jpeg",
+        "born": "July 13, 1951",
+        "living": "Rotterdam, Netherlands",
+        "salary": 10000
+    },
+    {
+        "name": "Paul Strand",
+        "circle": "American photographer and filmmaker",
+        "img": "https://cdn.pixabay.com/photo/2015/07/29/00/08/photographer-865295__340.jpg",
+        "born": "October 16, 1890",
+        "living": "Brooklyn, New York, NY",
+        "salary": 15000
+    },
+    {
+        "name": "Weegee",
+        "circle": "black and white street photography",
+        "img": "https://cdn.pixabay.com/photo/2016/11/29/04/54/photographer-1867417__480.jpg",
+        "born": "June 12, 1899",
+        "living": "New York, NYY",
+        "salary": 3000
+    },
+    {
+        "name": "RICHARD AVEDON",
+        "circle": "American fashion and portrait photographer",
+        "img": "https://cdn.pixabay.com/photo/2012/11/24/07/26/photographer-67127__480.jpg",
+        "born": "May 15, 1923",
+        "living": " New York, NY",
+        "salary": 8000
+    }
+]

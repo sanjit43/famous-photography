@@ -1,0 +1,29 @@
+.show-photographer{
+    text-align: center;
+    border: 2px solid salmon;
+    border-radius: 10px;
+    background-color: cadetblue;
+    margin: 10px;
+    padding: 10px;
+}
+.show-photographer img{
+     width: 200px;
+     height: 200px;
+     border-radius: 100%;
+}
+
+.regula-btn{
+    background-color: orange;
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.social-icon{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    margin-top: 5px;
+}
