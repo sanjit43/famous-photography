@@ -5,10 +5,8 @@ const Cart = (props) => {
     const { cart } = props;
 
     let total = 0;
-    let newCart = '';
     for (const photographer of cart) {
         total = total + photographer.salary;
-        newCart = newCart + photographer.name;
     }
     return (
         <div>
